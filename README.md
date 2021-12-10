@@ -1,2 +1,2 @@
 # machine-learn
-geekbrains homework
+projects geekbrains 
